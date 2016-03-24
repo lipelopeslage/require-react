@@ -8,7 +8,7 @@ Versões de módulos NPM utilizadas neste exemplo:
 
 Este exemplo mostra como combinar módulos carregados via RequireJS e componentes React.
 
-###  [Clique aqui](https://github.com/) e veja o exemplo.
+###  [Clique aqui](http://lipelopeslage.com.br/jobs/github/require-react/) e veja o exemplo.
 
 
 
